@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "slug": "memorizing-quran-hifz-guide",
+      "title": "Memorizing the Quran: A Practical Hifz Guide for Beginners",
+      "excerpt": "Embarking on the journey of Hifz is one of the most rewarding endeavors in a Muslim's life. Here is a practical, step-by-step approach to begin.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Hifz",
+      "coverImage": "/blog/hifz-cover.jpg",
+      "tags": ["Hifz", "Memorization", "Quran", "Beginner"],
+    },
+    {
+      "slug": "science-of-tajweed-recitation",
+      "title": "The Science of Tajweed: How to Recite the Quran Correctly",
+      "excerpt": "Tajweed is the art of reciting the Quran with proper pronunciation and melody. Learn the foundational rules that will transform your recitation.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Tajweed",
+      "coverImage": "/blog/tajweed-cover.jpg",
+      "tags": ["Tajweed", "Recitation", "Learning", "Quran"],
+    },
+    {
+      "slug": "understanding-surah-al-fatiha",
+      "title": "Understanding Surah Al-Fatiha: The Opening",
+      "excerpt": "Surah Al-Fatiha is the foundation of the Quran and the most recited chapter in Islamic prayer. Discover its profound meanings and spiritual depth.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Tafsir",
+      "tags": ["Surah Fatiha", "Tafsir", "Prayer", "Quran Study"],
+    }
+  ]
+}
