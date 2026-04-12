@@ -1,13 +1,13 @@
 {
-    slug: "memorizing-quran-hifz-guide",
-    title: "Memorizing the Quran: A Practical Hifz Guide for Beginners",
-    excerpt:
+    "slug": "memorizing-quran-hifz-guide",
+    "title": "Memorizing the Quran: A Practical Hifz Guide for Beginners",
+    "excerpt":
       "Embarking on the journey of Hifz is one of the most rewarding endeavors in a Muslim's life. Here is a practical, step-by-step approach to begin.",
-    date: "2026-04-13",
-    author: "QuranBookk",
-    category: "Hifz",
-    coverImage: "/blog/hifz-cover.jpg",
-    tags: ["Hifz", "Memorization", "Quran", "Beginner"],
-    content:
+    "date": "2026-04-13",
+    "author": "QuranBookk",
+    "category": "Hifz",
+    "coverImage": "/blog/hifz-cover.jpg",
+    "tags": ["Hifz", "Memorization", "Quran", "Beginner"],
+    "content":
       "The Hafiz — one who has memorized the [entire Quran](/digital-quran) — is described by the Prophet ﷺ as a carrier of Allah's words. The Quran promises that such a person will be adorned with a crown of light on the Day of Judgment. Yet many Muslims feel this goal is out of reach. It isn't.\n\n## Before You Begin\n\n### Intention (Niyyah)\nMemorization purely for Allah's pleasure is the foundation. The Prophet ﷺ warned against memorizing for show. Renew your intention regularly throughout the journey.\n\n### Choose a Mushaf\nUse a single edition consistently. Most huffaz recommend the Madani or Indo-Pak script in a size that is comfortable to read. Understanding [basic Tajweed rules](/blog/science-of-tajweed-recitation) and using color-coded mushafs are incredibly helpful for beginners.\n\n## A Daily System That Works\n\n### The New Lesson\nBegin each session with new memorization when your mind is freshest — ideally after Fajr. Aim for half a page to a full page daily depending on your capacity.\n\n**Method:**\n1. Read the page with full understanding 5–10 times. (If you struggle with a verse's meaning, use [Islam AI to explore its Tafsir](/ask-islam-ai) before memorizing).\n2. Memorize line by line, connecting each to the next.\n3. Recite the full page from memory 10 times.\n\n### Revision is Everything\n\nFor every new page memorized, you must revise old pages. A common ratio: 1 new page, 5–10 old pages reviewed. Without revision, memorization crumbles.\n\n## Managing Challenges\n\n**Forgetting**: Normal and expected. Return to forgotten sections immediately rather than skipping.\n\n**Motivation dips**: Connect with a memorization group or find an accountability partner. The journey is easier together.\n\n**Difficult verses**: Repeat problematic [ayahs in isolation](/search-quran) 50–100 times. Difficulty often signals a verse Allah wants you to treasure.\n\n## Timeline\n\nA realistic timeline for the full Quran (604 pages) at half a page per day is approximately 3–4 years with consistent revision. Many complete it sooner. The journey itself is the reward.",
   }
