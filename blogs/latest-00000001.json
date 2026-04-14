@@ -1,0 +1,441 @@
+{
+  "posts": [
+    {
+      "slug": "memorizing-quran-hifz-guide",
+      "title": "Memorizing the Quran: A Practical Hifz Guide for Beginners",
+      "excerpt": "Embarking on the journey of Hifz is one of the most rewarding endeavors in a Muslim's life. Here is a practical, step-by-step approach to begin.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Hifz",
+      "tags": ["Hifz", "Memorization", "Quran", "Beginner"]
+    },
+    {
+      "slug": "science-of-tajweed-recitation",
+      "title": "The Science of Tajweed: How to Recite the Quran Correctly",
+      "excerpt": "Tajweed is the art of reciting the Quran with proper pronunciation and melody. Learn the foundational rules that will transform your recitation.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Tajweed",
+      "tags": ["Tajweed", "Recitation", "Learning", "Quran"]
+    },
+    {
+      "slug": "understanding-surah-al-fatiha",
+      "title": "Understanding Surah Al-Fatiha: The Opening",
+      "excerpt": "Surah Al-Fatiha is the foundation of the Quran and the most recited chapter in Islamic prayer. Discover its profound meanings and spiritual depth.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Tafsir",
+      "tags": ["Surah Fatiha", "Tafsir", "Prayer", "Quran Study"]
+    },
+    {
+      "slug": "ayatul-kursi-benefits-meaning",
+      "title": "The Majestic Protection: Benefits and Meaning of Ayatul Kursi",
+      "excerpt": "Known as the greatest verse in the Quran, Ayatul Kursi offers unparalleled spiritual protection and profound theological depth. Discover its true power.",
+      "date": "2026-04-15",
+      "author": "QuranBookk",
+      "category": "Tafsir",
+      "readTime": "7 min read",
+      "tags": ["Tafsir", "Protection", "Quran", "Dua"]
+    },
+    {
+      "slug": "meaning-of-sabr-patience-in-islam",
+      "title": "Beyond Patience: The Deep Meaning of Sabr in the Quran",
+      "excerpt": "Sabr is often translated simply as 'patience', but in the Quran, it represents a dynamic, powerful resilience. Learn how to cultivate true Sabr in difficult times.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Lifestyle",
+      "tags": ["Sabr", "Mental Health", "Spirituality", "Quran Study"]
+    },
+    {
+      "slug": "how-to-pray-tahajjud-guide",
+      "title": "The Night Prayer: A Complete Guide to Praying Tahajjud",
+      "excerpt": "Tahajjud is the secret of the righteous and the key to answered prayers. Discover how to perform it, when to wake up, and the profound benefits it brings.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Prayer",
+      "tags": ["Prayer", "Tahajjud", "Dua", "Beginner"]
+    },
+    {
+      "slug": "prophet-muhammad-daily-routine-sunnah",
+      "title": "Optimize Your Life: The Daily Routine of Prophet Muhammad ﷺ",
+      "excerpt": "Long before modern productivity gurus, the Sunnah provided a perfect framework for balancing physical health, spiritual growth, and community service.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Lifestyle",
+      "tags": ["Sunnah", "Productivity", "Prophet Muhammad", "Habits"]
+    },
+    {
+      "slug": "quran-revelation-process-history",
+      "title": "How the Quran Was Revealed: The History of Divine Preservation",
+      "excerpt": "Unlike other historical texts, the Quran was not revealed all at once. Explore the fascinating 23-year journey of revelation, recording, and miraculous preservation.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "History",
+      "tags": ["History", "Quran Study", "Revelation", "Education"]
+    },
+    {
+      "slug": "best-duas-for-anxiety-worry",
+      "title": "Finding Peace: The Best Prophetic Duas for Anxiety and Stress",
+      "excerpt": "In a world plagued by overthinking and stress, the Sunnah provides specific supplications engineered to bring tranquility to an anxious heart.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Dua",
+      "tags": ["Dua", "Mental Health", "Anxiety", "Spirituality"]
+    },
+    {
+      "slug": "beginners-guide-to-quran-tafsir",
+      "title": "A Beginner's Guide to Quranic Tafsir: Unlocking Deeper Meanings",
+      "excerpt": "Reading the Quran is deeply rewarding, but understanding its context and historical depth changes everything. Here is how to begin your journey into Tafsir.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Tafsir",
+      "tags": ["Tafsir", "Quran Study", "Education", "Beginner"]
+    },
+    {
+      "slug": "story-of-prophet-musa-lessons",
+      "title": "3 Life-Changing Lessons from the Story of Prophet Musa",
+      "excerpt": "The story of Prophet Musa (Moses) is the most frequently mentioned narrative in the Quran. Discover its timeless lessons on fear, leadership, and trusting Allah's plan.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "History",
+      "tags": ["History", "Prophets", "Sabr", "Spirituality"]
+    },
+    {
+      "slug": "understanding-qadar-divine-decree",
+      "title": "Understanding Qadar: How to Balance Free Will and Divine Decree",
+      "excerpt": "Qadar is one of the pillars of faith, yet it is often misunderstood. Learn how to find absolute peace in Allah's plan while taking vigorous action in your own life.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Theology",
+      "tags": ["Theology", "Mental Health", "Faith", "Qadar"]
+    },
+    {
+      "slug": "preparing-for-ramadan-guide",
+      "title": "The Ultimate Ramadan Preparation Guide: Mind, Body, and Soul",
+      "excerpt": "Don't wait for the first moon sighting to begin your journey. Here is a comprehensive, actionable guide to preparing your heart and habits for the blessed month.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Lifestyle",
+      "tags": ["Ramadan", "Fasting", "Habits", "Quran"]
+    },
+    {
+      "slug": "99-names-of-allah-asma-ul-husna",
+      "title": "The 99 Names of Allah (Asma ul Husna): Meanings, Benefits & How to Use Them",
+      "excerpt": "The 99 Names of Allah are not just a list to memorise — each one is a window into knowing Allah more deeply. This guide covers their meanings, the hadith about them, and how to incorporate them into your daily worship.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Aqeedah",
+      "tags": [
+        "99 Names of Allah",
+        "Asma ul Husna",
+        "Allah Names",
+        "Islamic Aqeedah",
+        "Dhikr",
+        "Dua"
+      ]
+    },
+    {
+      "slug": "best-quran-translation-english-2026",
+      "title": "Best Quran Translation in English: An Honest Comparison for 2026",
+      "excerpt": "With dozens of English Quran translations available, choosing the right one is overwhelming. This honest comparison reviews the 7 most widely used translations so you can find the one that truly speaks to you.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Quran Study",
+      "tags": [
+        "Quran Translation",
+        "English Quran",
+        "Quran Meaning",
+        "Learn Quran",
+        "Tafsir",
+        "Best Quran"
+      ]
+    },
+    {
+      "slug": "essential-duas-for-daily-life",
+      "title": "Essential Duas for Daily Life: Morning, Evening, Before Sleep & More",
+      "excerpt": "The Prophet ﷺ taught us specific duas for nearly every moment of life. This comprehensive guide covers the most important daily duas with Arabic, transliteration, meaning, and the sunnah behind each one.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Dua & Dhikr",
+      "tags": [
+        "Dua",
+        "Daily Duas",
+        "Morning Dhikr",
+        "Evening Dhikr",
+        "Islamic Prayers",
+        "Supplications",
+        "Adhkar"
+      ]
+    },
+    {
+      "slug": "five-pillars-of-islam-explained",
+      "title": "The Five Pillars of Islam Explained: Meaning, Purpose & How to Practice Each One",
+      "excerpt": "The Five Pillars are the framework of Muslim life — not arbitrary rituals, but a comprehensive system that structures your relationship with Allah, your community, and yourself. This guide explains each pillar deeply.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Islam Basics",
+      "tags": [
+        "Five Pillars of Islam",
+        "Pillars of Islam",
+        "Shahadah",
+        "Salah",
+        "Zakat",
+        "Sawm",
+        "Hajj",
+        "New Muslim",
+        "Islam Basics"
+      ]
+    },
+    {
+      "slug": "how-to-find-accurate-prayer-times",
+      "title": "How to Find Accurate Prayer Times: A Complete Guide for Muslims",
+      "excerpt": "Salah is the second pillar of Islam, and knowing its exact times is obligatory. This comprehensive guide explains how prayer times are calculated, what affects them, and how to find yours instantly.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Prayer",
+      "tags": [
+        "Prayer Times",
+        "Salah",
+        "Fajr",
+        "Dhuhr",
+        "Asr",
+        "Maghrib",
+        "Isha",
+        "Five Pillars"
+      ]
+    },
+    {
+      "slug": "how-to-memorise-quran-hifz-guide",
+      "title": "How to Memorise the Quran: The Complete Beginner's Hifz Roadmap",
+      "excerpt": "Hifz — memorising the entire Quran — is one of the greatest achievements in a Muslim's life. This step-by-step guide covers daily methods, revision schedules, and tools that top huffaz actually use.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Hifz",
+      "tags": [
+        "Hifz",
+        "Quran Memorisation",
+        "Hafiz",
+        "Learn Quran",
+        "Memorization Tips",
+        "Quran Study"
+      ]
+    },
+    {
+      "slug": "how-to-prepare-for-ramadan",
+      "title": "How to Prepare for Ramadan: The Ultimate Spiritual & Practical Guide",
+      "excerpt": "Ramadan is the greatest month of the year — but only for those who prepare for it. This guide shows you exactly how to get spiritually, physically, and practically ready so you can maximise every single day of the blessed month.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Ramadan",
+      "tags": [
+        "Ramadan Preparation",
+        "Ramadan 2026",
+        "Fasting Tips",
+        "Ramadan Guide",
+        "Spiritual Preparation",
+        "Ramadan Quran"
+      ]
+    },
+    {
+      "slug": "surah-yaseen-tafsir-virtues-heart-of-quran",
+      "title": "Surah Yaseen: Complete Tafsir, Virtues & Why It Is the Heart of the Quran",
+      "excerpt": "Surah Yaseen is called the heart of the Quran by the Prophet ﷺ. This deep-dive covers its themes, verse-by-verse highlights, its authentic virtues, and the misunderstood hadith you should know.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Tafsir",
+      "tags": [
+        "Surah Yaseen",
+        "Yaseen Tafsir",
+        "Heart of Quran",
+        "Surah 36",
+        "Quran Tafsir",
+        "Islamic Study"
+      ]
+    },
+    {
+      "slug": "tajweed-rules-beginners-guide",
+      "title": "Tajweed Rules for Beginners: The 7 Essential Rules That Transform Your Recitation",
+      "excerpt": "Tajweed is the science of reciting the Quran with precision and beauty. This beginner's guide breaks down the 7 most important rules with clear examples, so you can start improving your recitation today.",
+      "date": "2026-04-13",
+      "author": "QuranBookk",
+      "category": "Tajweed",
+      "tags": [
+        "Tajweed",
+        "Tajweed Rules",
+        "Learn Tajweed",
+        "Quran Recitation",
+        "Makhraj",
+        "Noon Sakinah",
+        "Madd"
+      ]
+    },
+    {
+      "slug": "how-to-find-qibla-direction-complete-guide",
+      "title": "How to Find the Qibla Direction: A Complete Guide for Muslims Everywhere",
+      "excerpt": "The Qibla is the direction of the Kaaba in Makkah — every Muslim faces it in every prayer. This guide explains what the Qibla is, how to find it accurately using the shortest path, and what scholars say about praying in the wrong direction.",
+      "date": "2026-04-14",
+      "author": "QuranBookk",
+      "category": "Prayer",
+      "tags": [
+        "Qibla Direction",
+        "Qibla Finder",
+        "Find Qibla",
+        "Prayer Direction",
+        "Kaaba Direction",
+        "Salah"
+      ]
+    },
+    {
+      "slug": "ayat-al-kursi-greatest-verse-quran-meaning",
+      "title": "Ayat al-Kursi: The Greatest Verse in the Quran — Meaning, Virtues & When to Recite It",
+      "excerpt": "Ayat al-Kursi (Surah Al-Baqarah 2:255) is declared by the Prophet ﷺ as the greatest verse in the Quran. This guide explores its word-by-word meaning, its extraordinary descriptions of Allah, and the five specific times the Prophet ﷺ recommended reciting it.",
+      "date": "2026-04-14",
+      "author": "QuranBookk",
+      "category": "Quran Study",
+      "tags": [
+        "Ayat al-Kursi",
+        "Greatest Verse Quran",
+        "Quran 2:255",
+        "Al-Baqarah 255",
+        "Quran Protection",
+        "Islamic Prayer",
+        "Quran Memorisation"
+      ]
+    },
+    {
+      "slug": "surah-al-mulk-tafsir-virtues-nightly-sunnah",
+      "title": "Surah Al-Mulk: The Surah That Saves You in the Grave — Full Tafsir & Virtues",
+      "excerpt": "Surah Al-Mulk — 'The Sovereignty' — is one of the most important surahs to make part of your nightly routine. The Prophet ﷺ never slept without it. This guide covers its authentic virtues, its powerful arguments for resurrection, and a verse-by-verse exploration.",
+      "date": "2026-04-14",
+      "author": "QuranBookk",
+      "category": "Tafsir",
+      "tags": [
+        "Surah Al-Mulk",
+        "Surah 67",
+        "Quran Tafsir",
+        "Al-Mulk Virtues",
+        "Nightly Sunnah",
+        "Grave Intercession",
+        "Quran Before Sleep"
+      ]
+    },
+    {
+      "slug": "how-to-read-quran-beginners-complete-guide",
+      "title": "How to Read the Quran as a Beginner: A Complete Starting Guide",
+      "excerpt": "Starting to read the Quran can feel overwhelming. This honest, practical guide tells you exactly where to begin, how to approach it, what tools to use, and how to build a consistent habit — whether you know Arabic or not.",
+      "date": "2026-04-14",
+      "author": "QuranBookk",
+      "category": "Quran Study",
+      "tags": [
+        "Read Quran Beginner",
+        "How to Read Quran",
+        "Quran for Beginners",
+        "Learn Quran",
+        "Quran in English",
+        "New Muslim Quran"
+      ]
+    },
+    {
+      "slug": "surah-al-kahf-friday-virtues-stories-guide",
+      "title": "Surah Al-Kahf on Friday: Virtues, Themes & Verse-by-Verse Highlights",
+      "excerpt": "Reciting Surah Al-Kahf on Friday is one of the most widely practised weekly sunnahs. This guide covers its authentic virtues, its four extraordinary stories, the light between two Fridays, and how to reflect on it deeply — not just recite it.",
+      "date": "2026-04-14",
+      "author": "QuranBookk",
+      "category": "Tafsir",
+      "tags": [
+        "Surah Al-Kahf",
+        "Al-Kahf Friday",
+        "Surah 18",
+        "Quran Tafsir",
+        "Friday Sunnah",
+        "Dajjal",
+        "Quran Stories"
+      ]
+    },
+    {
+      "slug": "how-to-use-ai-to-learn-islam-guide",
+      "title": "How to Use AI to Learn Islam: A Muslim's Guide to Islamic AI Tools",
+      "excerpt": "Artificial intelligence is transforming how Muslims access Islamic knowledge. This guide explains how to use Islamic AI tools responsibly, what they can and cannot do, and why QuranBookk's Islam AI is designed specifically for the Quran and Sunnah.",
+      "date": "2026-04-14",
+      "author": "QuranBookk",
+      "category": "Technology & Islam",
+      "tags": [
+        "Islamic AI",
+        "Islam AI",
+        "Quran AI",
+        "Hadith AI",
+        "Learn Islam Online",
+        "Digital Islam",
+        "Technology Muslim"
+      ]
+    },
+    {
+      "slug": "surah-ar-rahman-tafsir-meaning-guide",
+      "title": "Surah Ar-Rahman: The Most Beautiful Surah in the Quran — Full Tafsir & Meaning",
+      "excerpt": "Surah Ar-Rahman is the Quran's most rhetorically stunning chapter — 'The Merciful', with its repeated refrain that has captivated hearts for 1,400 years. This deep-dive explores every section with full tafsir and the profound question it keeps asking.",
+      "date": "2026-04-14",
+      "author": "QuranBookk",
+      "category": "Tafsir",
+      "tags": [
+        "Surah Ar-Rahman",
+        "Surah 55",
+        "Quran Tafsir",
+        "Ar-Rahman meaning",
+        "Fabi ayyi ala",
+        "Most Beautiful Surah"
+      ]
+    },
+    {
+      "slug": "six-major-hadith-collections-kutub-sittah-guide",
+      "title": "The Six Major Hadith Collections: A Complete Guide to the Kutub al-Sittah",
+      "excerpt": "Sahih Bukhari, Sahih Muslim, Sunan Abu Dawud, Tirmidhi, Nasa'i, Ibn Majah — these six hadith collections are the foundation of Islamic knowledge. This guide explains each one, their grading systems, and how to use them correctly.",
+      "date": "2026-04-14",
+      "author": "QuranBookk",
+      "category": "Hadith",
+      "tags": [
+        "Hadith",
+        "Sahih Bukhari",
+        "Sahih Muslim",
+        "Kutub Sittah",
+        "Six Hadith Books",
+        "Islamic Knowledge",
+        "Hadith Collections"
+      ]
+    },
+    {
+      "slug": "power-of-dhikr-remembrance-of-allah-guide",
+      "title": "The Power of Dhikr: What It Is, Why It Transforms You, and the Best Phrases to Practice",
+      "excerpt": "Dhikr — the remembrance of Allah — is not a ritual. It is a state of heart. This guide covers the Quranic and hadith evidence for dhikr, the most powerful phrases and their exact rewards, and how to build a dhikr practice into your daily life.",
+      "date": "2026-04-14",
+      "author": "QuranBookk",
+      "category": "Dua & Dhikr",
+      "tags": [
+        "Dhikr",
+        "Remembrance of Allah",
+        "Tasbih",
+        "Subhanallah",
+        "Alhamdulillah",
+        "Allahu Akbar",
+        "Istighfar",
+        "Islamic Practice"
+      ]
+    },
+    {
+      "slug": "life-of-prophet-muhammad-complete-seerah",
+      "title": "The Life of Prophet Muhammad ﷺ: A Complete Seerah Overview",
+      "excerpt": "The Seerah — the biography of Prophet Muhammad ﷺ — is the most documented life in human history. This complete overview covers his birth, prophethood, migration, major events, and the lessons each phase holds for Muslims today.",
+      "date": "2026-04-14",
+      "author": "QuranBookk",
+      "category": "Seerah",
+      "tags": [
+        "Seerah",
+        "Prophet Muhammad",
+        "Life of Prophet",
+        "Islamic History",
+        "Prophet Biography",
+        "Hijra",
+        "Madinah"
+      ]
+    }
+  ]
+}
